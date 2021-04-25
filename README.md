@@ -17,7 +17,7 @@ Change authentication!!!
 	
 Sample .proxyauth
 
-    macro:CL:C@123456
+    username:CL:password
 
 Change HTTP/SOCKS port, default is 9999 (HTTP) and 8088 (SOCKS)
 
